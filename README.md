@@ -1,4 +1,4 @@
-# first_project
+# Fast Typing Game
 
 A new Flutter project.
 
